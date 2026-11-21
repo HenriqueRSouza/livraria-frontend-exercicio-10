@@ -2,7 +2,7 @@
   "name": "livraria-frontend",
   "version": "1.0.0",
   "private": true,
-  "description": "Front-end MVC da livraria (Exercício 8.6), servido por um Node sem dependências",
+  "description": "Front-end MVC da livraria (Exercícios 10.1 e 10.2), servido por um Node sem dependências",
   "type": "module",
   "engines": { "node": ">=20" },
   "scripts": {
